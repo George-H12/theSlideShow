@@ -21,6 +21,7 @@ body{
     align-items: center;
     display: flex;
     border-radius: 20px;
+    height: 60px;
     }
     #navSection a{
     text-decoration: none;
