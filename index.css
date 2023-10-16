@@ -139,7 +139,7 @@ body{
     
     
     .slide2Text p {
-    margin: 50px 0; /* Add margin to separate the paragraphs vertically */
+    margin: 50px 0;
     font-size: 20px;
     border: 2px solid black;
     }
@@ -163,7 +163,7 @@ body{
     display: grid;
     font-size: 20px;
     grid-template-columns: repeat(3, 1fr);
-    grid-gap: 20px; /* Adjust the gap as needed */
+    grid-gap: 20px;
     }
     
     
